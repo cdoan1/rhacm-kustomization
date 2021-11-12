@@ -5,3 +5,4 @@ metadata:
   name: multiclusterhub
 spec:
   availabilityConfig: High
+  imagePullSecret: multiclusterhub-operator-pull-secret
